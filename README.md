@@ -24,7 +24,30 @@
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+## Project Tree
 
+nestjs-authentication/
+├── dist/
+├── node_modules/
+├── src/
+│   ├── app.controller.spec.ts
+│   ├── app.controller.ts
+│   ├── app.module.ts
+│   ├── app.service.ts
+│   └── main.ts
+├── test/
+│   ├── app.e2e-spec.ts
+│   └── jest-e2e.json
+├── .gitignore
+├── .prettierrc
+├── eslint.config.mjs
+├── LICENSE
+├── nest-cli.json
+├── package-lock.json
+├── package.json
+├── README.md
+├── tsconfig.build.json
+└── tsconfig.json
 ## Project setup
 
 ```bash
